@@ -6,6 +6,9 @@
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@fontsource/roboto": "^4.5.8",
+    "@fortawesome/fontawesome-svg-core": "^6.3.0",
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
     "@mui/icons-material": "^5.11.9",
     "@mui/material": "^5.11.9",
     "@mui/styled-engine-sc": "^5.11.9",
@@ -16,7 +19,6 @@
     "react": "^18.2.0",
     "react-bootstrap": "^2.7.2",
     "react-dom": "^18.2.0",
-    "react-icons": "^4.8.0",
     "react-scripts": "5.0.1",
     "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
